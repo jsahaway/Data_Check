@@ -36,7 +36,9 @@ function initializeGL(canvas) {
 
     myGroup = new THREE.Object3D();
 
-    for (var i = 0; i < myModel[0].myList.length; ++i){
+    //for (var i = 0; i < myModel[0].myList.length; ++i){
+    for (var i = 0; i < 1000; ++i){ // for test
+
 
 
         //console.log("myModel: " + myModel[0].myList[i])
@@ -54,29 +56,32 @@ function initializeGL(canvas) {
         myGeometry = new THREE.Mesh(planeGeometry, myMaterial );
 
         // Translate Mesh
-        //        if(i%3 == 0){
-        //            myGeometry.position.y = (i%486) * -0.6;
-        //        } else {
-        //            myGeometry.position.x = (i%3) * 3.2;
-        //            myGeometry.position.y = (i%486) * -0.6;
-        //        }
+//                if(i%3 == 0){
+//                    myGeometry.position.y = (i%100) * -0.6;
+//                } else {
+//                    myGeometry.position.x = (i%3) * 3.2;
+//                    myGeometry.position.y = (i%100) * -0.6;
+//                }
 
-        //                    myGeometry.position.x = (i%3) * 3.2;
-        //        if(i%3 == 0){
-        //                    myGeometry.position.y = (i%485) * -0.5;
-        //        }
+//                            myGeometry.position.x = (i%3) * 3.2;
+//                if(i%3 == 0){
+//                            myGeometry.position.y = (i%485) * -0.5;
+//                }
 
-        myGeometry.position.x = Math.random() * modelSizeMap - modelSizeMapMiddle;
-        myGeometry.position.y = Math.random() * modelSizeMap - modelSizeMapMiddle;
-        myGeometry.position.z = Math.random() * modelSizeMap - modelSizeMapMiddle;
+        myGeometry.position.x = Math.random() * 20 - 10;
+        myGeometry.position.y = Math.random() * 20 - 10;
+        myGeometry.position.z = Math.random() * 20 - 10;
 
-        myGeometry.rotation.x = Math.random() * 2 * Math.PI;
-        myGeometry.rotation.y = Math.random() * 2 * Math.PI;
-        myGeometry.rotation.z = Math.random() * 2 * Math.PI;
+//        myGeometry.rotation.x = Math.random() * 2 * Math.PI;
+//        myGeometry.rotation.y = Math.random() * 2 * Math.PI;
+//        myGeometry.rotation.z = Math.random() * 2 * Math.PI;
 
         myGeometry.matrixAutoUpdate = false;
         myGeometry.updateMatrix();
         myGroup.add( myGeometry );
+
+//        component.destroy();
+//        componentParent.destroy();
     }
 
     scene.add(myGroup);

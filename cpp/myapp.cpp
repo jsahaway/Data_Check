@@ -1,6 +1,7 @@
 #include "myapp.h"
 #include <QDebug>
 
+using namespace std;
 
 MyApp::MyApp(QObject *parent) : QObject(parent), m_context(nullptr)
 {
@@ -19,8 +20,6 @@ void MyApp::updateContext()
 
     SqlUser myBDD;
     myBDD.connectToDatabase("gares");
-    //myBDD.executeSQLQuery("SELECT * FROM codepostal, departement, desserte;");
-
     if(myBDD.userIsConnect()){
         QStringList blop = myBDD.displaySQLQuery("SELECT * FROM gare;");
         QList<QObject*> dataList;
@@ -32,10 +31,19 @@ void MyApp::updateContext()
             qDebug() << "Context non instancié";
     } else {
 
-        QStringList liststr;
-        liststr << "item1" << "item2" << "item3";
+        Table myCSV;
+        myCSV.loadData("C:/Users/34011-58-08/Documents/34011-58-08/git/dataCheck/files/example_gares.csv");
+
+        QStringList listToQml;
+        //listToQml << "item1" << "item2" << "item3";
+        listToQml = myCSV.getDataBaseQT();
+
+
+
         QList<QObject*> dataList;
-        dataList.append(new MyBind( liststr ));
+        dataList.append(new MyBind( listToQml ));
+
+
 
         if( m_context!= nullptr )
             m_context->setContextProperty("myModel", QVariant::fromValue( dataList ));

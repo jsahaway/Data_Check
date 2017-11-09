@@ -11,8 +11,8 @@
 
 #include "mybind.h"
 #include "sqluser.h"
+#include "table.h"
 
-using namespace std;
 
 class MyApp : public QObject
 {

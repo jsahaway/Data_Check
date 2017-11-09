@@ -9,7 +9,8 @@ CONFIG -= console
 SOURCES += cpp/main.cpp \
     cpp/myapp.cpp \
     cpp/mybind.cpp \
-    cpp/sqluser.cpp
+    cpp/sqluser.cpp \
+    cpp/table.cpp
 
 RESOURCES += qml.qrc
 
@@ -35,7 +36,8 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 HEADERS += \
     cpp/myapp.h \
     cpp/mybind.h \
-    cpp/sqluser.h
+    cpp/sqluser.h \
+    cpp/table.h
 
 DISTFILES += \
     qml/glcode.js \

@@ -1,0 +1,535 @@
+Codeligne;Nomgare;Naturedesserte;Latitude_wgs84;Longitude_wgs84;WGS84;Numdepartement;Numcodepostal;Nomville
+984000;St-Michel-Notre-Dame;Desserte Voyageur;48.85312;2.3471;48.85312, 2.3471;75;75005;Paris
+984000;Musée-d'Orsay;Desserte Voyageur;48.86004;2.32862;48.86004, 2.32862;75;75007;Paris
+334900;Paris-St-Lazare;Desserte Voyageur-Infrastructure;48.87665;2.32515;48.87665, 2.32515;75;75008;Paris
+973000;Paris-St-Lazare;Desserte Voyageur-Infrastructure;48.87645;2.324;48.87645, 2.324;75;75008;Paris
+975000;Paris-St-Lazare;Desserte Voyageur-Infrastructure;48.87653;2.32456;48.87653, 2.32456;75;75008;Paris
+979000;Haussmann-St-Lazare;Desserte Voyageur-Infrastructure;48.87495;2.33094;48.87495, 2.33094;75;75009;Paris
+1000;Paris-Est;Desserte Voyageur-Infrastructure;48.87755;2.35916;48.87755, 2.35916;75;75010;Paris
+981000;Paris-Gare-de-Lyon;Desserte Voyageur-Infrastructure;48.84429;2.37367;48.84429, 2.37367;75;75012;Paris
+980000;La Glacière-Gentilly;Non exploitée;48.82142;2.34578;48.82142, 2.34578;75;75013;Paris
+570000;Paris-Austerlitz;Desserte Voyageur-Infrastructure;48.8405;2.36704;48.8405, 2.36704;75;75013;Paris
+977000;Champ-de-Mars-Tour-Eiffel;Desserte Voyageur;48.85594;2.28961;48.85594, 2.28961;75;75015;Paris
+962000;Avenue-du-Président-Kennedy-Radio-France;Desserte Voyageur;48.85308;2.28057;48.85308, 2.28057;75;75016;Paris
+971000;Péreire-Levallois;Desserte Voyageur-Infrastructure;48.88524;2.298;48.88524, 2.298;75;75017;Paris
+973000;Pont-Cardinet;Desserte Voyageur-Infrastructure;48.88755;2.31434;48.88755, 2.31434;75;75017;Paris
+334900;Pont-Cardinet;Desserte Voyageur-Infrastructure;48.88762;2.31444;48.88762, 2.31444;75;75017;Paris
+962000;Porte-de-Clichy;Desserte Voyageur;48.89402;2.31486;48.89402, 2.31486;75;75017;Paris
+952000;Paris-La Chapelle-Mines;Non exploitée;48.89832;2.36216;48.89832, 2.36216;75;75018;Paris
+2000;Chailly-Boissy-Le Châtel;Desserte Voyageur;48.81427;3.15193;48.81427, 3.15193;77;77120;Chailly-en-Brie
+746000;Vosves;Desserte Voyageur;48.51502;2.59936;48.51502, 2.59936;77;77190;Dammarie-lès-Lys
+1000;Villepatour-Presles;Non exploitée;48.69665;2.74369;48.69665, 2.74369;77;77220;Presles-en-Brie
+2000;Tournan;Desserte Fret-Desserte Voyageur-Infrastructure;48.73931;2.75957;48.73931, 2.75957;77;77220;Tournan-en-Brie
+830000;Cesson;Desserte Voyageur-Infrastructure;48.56587;2.59417;48.56587, 2.59417;77;77240;Cesson
+830000;Moret-Veneux-les-Sablons;Desserte Voyageur-Infrastructure;48.37872;2.79965;48.37872, 2.79965;77;77250;Veneux-les-Sablons
+229000;Mitry-Claye;Desserte Fret-Desserte Voyageur-Infrastructure;48.97571;2.64212;48.97571, 2.64212;77;77290;Mitry-Mory
+229000;Compans;Desserte Voyageur;48.9916;2.66523;48.9916, 2.66523;77;77290;Compans
+746000;St-Fargeau;Desserte Voyageur;48.56393;2.54246;48.56393, 2.54246;77;77310;Saint-Fargeau-Ponthierry
+830000;Le Mée;Desserte Voyageur;48.54003;2.62377;48.54003, 2.62377;77;77350;Le Mée-sur-Seine
+830000;Combs-la-Ville-Quincy;Desserte Voyageur-Infrastructure;48.66746;2.54797;48.66746, 2.54797;77;77380;Combs-la-Ville
+70000;Lagny-Thorigny;Desserte Voyageur-Infrastructure;48.8821;2.70434;48.8821, 2.70434;77;77400;Thorigny-sur-Marne
+70000;Esbly;Desserte Voyageur-Infrastructure;48.90314;2.81062;48.90314, 2.81062;77;77450;Esbly
+746000;Fontaine-le-Port;Desserte Voyageur;48.48712;2.75322;48.48712, 2.75322;77;77590;Fontaine-le-Port
+1000;Longueville (Seine-et-Marne);Desserte Fret-Desserte Voyageur-Infrastructure;48.51237;3.25128;48.51237, 3.25128;77;77650;Longueville
+3000;Ste-Colombe-Septveilles;Desserte Voyageur;48.52967;3.25583;48.52967, 3.25583;77;77650;Sainte-Colombe
+226310;Marne-la-Vallée-Chessy;Desserte Voyageur-Infrastructure;48.86995;2.78268;48.86995, 2.78268;77;77700;Chessy
+70000;Nanteuil-Saâcy;Desserte Voyageur-Infrastructure;48.97397;3.22006;48.97397, 3.22006;77;77730;Saâcy-sur-Marne
+747000;Herbeauvilliers;Desserte Fret-Infrastructure;48.28795;2.48057;48.28795, 2.48057;77;77760;Buthiers
+750000;Bourron-Marlotte-Grez;Desserte Fret-Desserte Voyageur-Infrastructure;48.33267;2.69346;48.33267, 2.69346;77;77780;Bourron-Marlotte
+746000;Héricy;Desserte Voyageur-Infrastructure;48.44118;2.75913;48.44118, 2.75913;77;77870;Héricy
+745000;Beaumont-Boësses;Non exploitée;48.14299;2.46932;48.14299, 2.46932;77;77890;Beaumont-du-Gâtinais
+990000;St-Germain-Grande-Ceinture;Desserte Voyageur-Infrastructure;48.90359;2.07292;48.90359, 2.07292;78;78100;Saint-Germain-en-Laye
+990000;St-Germain-Bel-Air;Desserte Voyageur;48.89457;2.06981;48.89457, 2.06981;78;78100;Saint-Germain-en-Laye
+340000;Les Mureaux;Desserte Fret-Desserte Voyageur-Infrastructure;48.99243;1.91306;48.99243, 1.91306;78;78130;Les Mureaux
+420000;Trappes-Marchandises;Desserte Fret-Infrastructure;48.76964;1.99138;48.76964, 1.99138;78;78190;Trappes
+395000;St-Cyr;Desserte Fret-Desserte Voyageur-Infrastructure;48.79895;2.073;48.79895, 2.073;78;78210;Saint-Cyr-l'École
+990000;Poissy-Grande-Ceinture;Infrastructure;48.92719;2.05156;48.92719, 2.05156;78;78300;Poissy
+420000;La Verrière;Desserte Voyageur-Infrastructure;48.75547;1.94451;48.75547, 1.94451;78;78320;La Verrière
+990000;Jouy-en-Josas;Desserte Voyageur-Infrastructure;48.76475;2.16352;48.76475, 2.16352;78;78350;Jouy-en-Josas
+974000;Louveciennes;Desserte Voyageur;48.86125;2.12274;48.86125, 2.12274;78;78430;Louveciennes
+340000;Les Clairières-de-Verneuil;Desserte Voyageur;48.99273;1.95483;48.99273, 1.95483;78;78480;Verneuil-sur-Seine
+334000;Chanteloup-les-Vignes;Desserte Voyageur;48.97029;2.02725;48.97029, 2.02725;78;78510;Triel-sur-Seine
+334000;Maurecourt;Desserte Voyageur;48.98689;2.05971;48.98689, 2.05971;78;78570;Andrésy
+334000;Conflans-Fin-d'Oise;Desserte Fret-Desserte Voyageur-Infrastructure;48.99187;2.07493;48.99187, 2.07493;78;78700;Conflans-Sainte-Honorine
+334000;Conflans-Ste-Honorine;Desserte Voyageur-Infrastructure;48.99691;2.0988;48.99691, 2.0988;78;78700;Conflans-Sainte-Honorine
+746000;Villabé;Desserte Voyageur;48.59276;2.46168;48.59276, 2.46168;91;91100;Villabé
+552000;Palaiseau-Marchandises;Non exploitée;48.71698;2.24563;48.71698, 2.24563;91;91120;Palaiseau
+570000;Étampes;Desserte Fret-Desserte Voyageur-Infrastructure;48.43686;2.15901;48.43686, 2.15901;91;91150;Étampes
+745000;Juvisy;Desserte Fret-Desserte Voyageur-Infrastructure;48.6892;2.38343;48.6892, 2.38343;91;91260;Juvisy-sur-Orge
+985000;Massy-Palaiseau-Grande-Ceinture;Desserte Fret-Desserte Voyageur-Infrastructure;48.72989;2.26352;48.72989, 2.26352;91;91300;Massy
+431000;Massy-TGV;Desserte Voyageur-Infrastructure;48.72798;2.2641;48.72798, 2.2641;91;91300;Massy
+985000;Rungis-la-Fraternelle;Desserte Voyageur-Infrastructure;48.73981;2.3488;48.73981, 2.3488;91;91320;Wissous
+988000;Grigny-Val-de-Seine;Infrastructure;48.66595;2.40013;48.66595, 2.40013;91;91350;Grigny
+570000;Épinay-sur-Orge;Desserte Voyageur;48.66933;2.33221;48.66933, 2.33221;91;91360;Épinay-sur-Orge
+990000;Chilly-Mazarin;Desserte Voyageur-Infrastructure;48.70055;2.30868;48.70055, 2.30868;91;91380;Chilly-Mazarin
+552000;Orsay-Ville;Non exploitée;48.6973;2.17992;48.6973, 2.17992;91;91400;Orsay
+990000;Igny;Desserte Voyageur;48.7398;2.23107;48.7398, 2.23107;91;91430;Igny
+745000;La Ferté-Alais;Desserte Voyageur-Infrastructure;48.48514;2.35203;48.48514, 2.35203;91;91590;Baulne
+684000;Saclas-St-Cyr;Non exploitée;48.35954;2.13019;48.35954, 2.13019;91;91690;Saint-Cyr-la-Rivière
+745000;Buno-Gironville;Desserte Voyageur;48.37041;2.38657;48.37041, 2.38657;91;91720;Buno-Bonnevaux
+830000;Brunoy;Desserte Voyageur;48.69947;2.50644;48.69947, 2.50644;91;91800;Brunoy
+420000;Meudon;Desserte Voyageur;48.81497;2.2404;48.81497, 2.2404;92;92190;Meudon
+972000;Les Côteaux;Non exploitée;48.85712;2.22059;48.85712, 2.22059;92;92210;Saint-Cloud
+334000;Clichy-Levallois;Desserte Voyageur;48.8979;2.29727;48.8979, 2.29727;92;92300;Levallois-Perret
+420000;Sèvres-Rive-Gauche;Desserte Voyageur-Infrastructure;48.82116;2.21428;48.82116, 2.21428;92;92310;Sèvres
+972000;Sèvres-St-Cloud;Non exploitée;48.83472;2.22301;48.83472, 2.22301;92;92310;Sèvres
+972000;Bellevue-Funiculaire;Non exploitée;48.8224;2.23121;48.8224, 2.23121;92;92310;Sèvres
+974000;Vaucresson;Desserte Voyageur;48.8367;2.15244;48.8367, 2.15244;92;92420;Vaucresson
+974000;Garches-Marnes-la-Coquette;Desserte Voyageur-Infrastructure;48.83798;2.18669;48.83798, 2.18669;92;92430;Marnes-la-Coquette
+975000;Bécon-les-Bruyères;Desserte Fret-Desserte Voyageur-Infrastructure;48.90583;2.26831;48.90583, 2.26831;92;92600;Courbevoie
+973000;Asnières-sur-Seine;Desserte Voyageur-Infrastructure;48.90513;2.28394;48.90513, 2.28394;92;92600;Asnières-sur-Seine
+334900;Le Stade;Desserte Voyageur-Infrastructure;48.93123;2.26066;48.93123, 2.26066;92;92700;Colombes
+990000;Bobigny;Desserte Fret-Infrastructure;48.91061;2.43085;48.91061, 2.43085;93;93000;Bobigny
+1000;Rosny-sous-Bois;Desserte Voyageur;48.87039;2.48568;48.87039, 2.48568;93;93110;Rosny-sous-Bois
+1000;Noisy-le-Sec;Desserte Fret-Desserte Voyageur-Infrastructure;48.89667;2.46039;48.89667, 2.46039;93;93130;Noisy-le-Sec
+1000;Les Yvris-Noisy-le-Grand;Desserte Voyageur;48.82352;2.57932;48.82352, 2.57932;93;93160;Noisy-le-Grand
+272000;Stade-de-France-St-Denis;Desserte Voyageur;48.91825;2.34986;48.91825, 2.34986;93;93200;Saint-Denis
+990000;Stains;Desserte Fret-Infrastructure;48.9593;2.37756;48.9593, 2.37756;93;93240;Stains
+958000;Les Coquetiers;Desserte Voyageur-Infrastructure;48.89248;2.49939;48.89248, 2.49939;93;93250;Villemomble
+958000;Allée-de-la-Tour-Rendez-Vous;Desserte Voyageur;48.89753;2.50682;48.89753, 2.50682;93;93320;Villemomble
+229000;Le Bourget;Desserte Fret-Desserte Voyageur-Infrastructure;48.93079;2.42567;48.93079, 2.42567;93;93350;Le Bourget
+963000;St-Ouen-Garibaldi;Infrastructure;48.90702;2.32976;48.90702, 2.32976;93;93400;St Ouen
+76000;Villepinte;Desserte Voyageur;48.96312;2.51233;48.96312, 2.51233;93;93420;Villepinte
+76000;Aulnay-sous-Bois;Desserte Voyageur-Infrastructure;48.93212;2.49454;48.93212, 2.49454;93;93600;Aulnay-sous-Bois
+330000;Épinay-Villetaneuse;Desserte Voyageur-Infrastructure;48.95777;2.32845;48.95777, 2.32845;93;93800;Épinay-sur-Seine
+830000;Villeneuve-St-Georges-Triage;Desserte Fret-Desserte Voyageur;48.74457;2.43877;48.74457, 2.43877;94;94190;Villeneuve-Saint-Georges
+552000;Arcueil-Cachan;Non exploitée;48.79922;2.32821;48.79922, 2.32821;94;94230;Cachan
+985000;Orly-Ville;Desserte Voyageur-Infrastructure;48.74228;2.40257;48.74228, 2.40257;94;94310;Orly
+985000;Les Saules;Desserte Voyageur;48.74521;2.41768;48.74521, 2.41768;94;94310;Orly
+956000;Joinville-le-Pont;Non exploitée;48.82004;2.46362;48.82004, 2.46362;94;94340;Joinville-le-Pont
+956000;Sucy-Bonneuil;Desserte Fret-Infrastructure;48.77161;2.5077;48.77161, 2.5077;94;94370;Sucy-en-Brie
+990000;Sucy-Bonneuil;Desserte Fret-Infrastructure;48.77101;2.50794;48.77101, 2.50794;94;94370;Sucy-en-Brie
+977000;Pont-de-l'Alma;Desserte Voyageur;48.8622;2.30005;48.8622, 2.30005;75;75007;Paris
+334000;Paris-St-Lazare;Desserte Voyageur-Infrastructure;48.87712;2.32611;48.87712, 2.32611;75;75008;Paris
+955000;Paris-Bercy-Rapée;Desserte Fret;48.82891;2.38861;48.82891, 2.38861;75;75012;Paris
+984000;Paris-Austerlitz (Banlieue);Desserte Voyageur;48.8405;2.36704;48.8405, 2.36704;75;75013;Paris
+570000;Bibliothèque-François-Mitterrand;Desserte Voyageur;48.82874;2.37794;48.82874, 2.37794;75;75013;Paris
+420000;Ouest-Ceinture;Non exploitée;48.82892;2.30553;48.82892, 2.30553;75;75014;Paris
+420000;Paris-Vaugirard;Desserte Fret-Desserte Voyageur;48.8375;2.31599;48.8375, 2.31599;75;75014;Paris
+975000;Pont-Cardinet;Desserte Voyageur-Infrastructure;48.88759;2.31439;48.88759, 2.31439;75;75017;Paris
+272000;Paris-La Chapelle;Infrastructure;48.89865;2.35496;48.89865, 2.35496;75;75018;Paris
+962000;Avenue-Henri-Martin;Desserte Voyageur;48.86439;2.27215;48.86439, 2.27215;75;75116;Paris
+746000;Melun;Desserte Fret-Desserte Voyageur-Infrastructure;48.5272;2.65576;48.5272, 2.65576;77;77000;Melun
+3000;Champbenoist-Poigny;Desserte Voyageur;48.54573;3.28693;48.54573, 3.28693;77;77160;Poigny
+2000;Mortcerf;Desserte Voyageur-Infrastructure;48.78912;2.90774;48.78912, 2.90774;77;77163;Mortcerf
+750000;Bagneaux-sur-Loing;Desserte Voyageur;48.23047;2.7034;48.23047, 2.7034;77;77167;Bagneaux-sur-Loing
+3000;Léchelle (Seine-et-Marne);Desserte Fret-Infrastructure;48.57999;3.38347;48.57999, 3.38347;77;77171;Léchelle
+830000;Fontainebleau-Avon;Desserte Fret-Desserte Voyageur-Infrastructure;48.41621;2.72679;48.41621, 2.72679;77;77210;Avon
+746000;Vulaines-sur-Seine-Samoreau;Desserte Voyageur;48.42852;2.75256;48.42852, 2.75256;77;77210;Samoreau
+750000;Moret-Veneux-les-Sablons;Desserte Voyageur-Infrastructure;48.37835;2.7993;48.37835, 2.7993;77;77250;Veneux-les-Sablons
+746000;Ponthierry-Pringy;Desserte Voyageur-Infrastructure;48.53496;2.54522;48.53496, 2.54522;77;77310;Saint-Fargeau-Ponthierry
+746000;Boissise-le-Roi;Desserte Voyageur;48.52909;2.57382;48.52909, 2.57382;77;77310;Boissise-le-Roi
+2000;La Ferté-Gaucher;Desserte Voyageur-Infrastructure;48.78219;3.2977;48.78219, 3.2977;77;77320;La Ferté-Gaucher
+70000;Vaires-Torcy;Desserte Fret-Desserte Voyageur-Infrastructure;48.87535;2.63998;48.87535, 2.63998;77;77360;Vaires-sur-Marne
+1000;Ozouer-le-Voulgis;Infrastructure;48.66571;2.78203;48.66571, 2.78203;77;77390;Ozouer-le-Voulgis
+71000;Les Champs-Forts;Desserte Voyageur;48.89671;2.80648;48.89671, 2.80648;77;77450;Esbly
+71000;Montry-Condé;Desserte Voyageur;48.89094;2.82638;48.89094, 2.82638;77;77450;Montry
+71000;Villiers-Montbarbin;Desserte Voyageur;48.86346;2.88301;48.86346, 2.88301;77;77580;Crécy-la-Chapelle
+2000;Guérard-La Celle-sur-Morin;Desserte Voyageur;48.81043;2.95464;48.81043, 2.95464;77;77580;Guérard
+830000;Bois-le-Roi;Desserte Voyageur;48.47556;2.69199;48.47556, 2.69199;77;77590;Bois-le-Roi
+746000;Chartrettes;Desserte Voyageur;48.4869;2.69594;48.4869, 2.69594;77;77590;Chartrettes
+747000;La Chapelle-la-Reine;Desserte Fret-Infrastructure;48.32206;2.56747;48.32206, 2.56747;77;77760;La Chapelle-la-Reine
+975000;Le Pecq;Non exploitée;48.90189;2.11667;48.90189, 2.11667;78;78110;Le Vésinet
+974000;Marly-le-Roi;Desserte Voyageur-Infrastructure;48.8716;2.09619;48.8716, 2.09619;78;78160;Marly-le-Roi
+974000;La Celle-St-Cloud;Desserte Voyageur;48.84304;2.13769;48.84304, 2.13769;78;78170;La Celle-Saint-Cloud
+420000;St-Quentin-en-Yvelines;Desserte Voyageur-Infrastructure;48.78712;2.04387;48.78712, 2.04387;78;78180;Montigny-le-Bretonneux
+977000;Viroflay-Rive-Gauche;Desserte Voyageur;48.80069;2.17075;48.80069, 2.17075;78;78220;Viroflay
+334000;Meulan-Hardricourt;Desserte Voyageur-Infrastructure;49.00577;1.90168;49.00577, 1.90168;78;78250;Hardricourt
+334000;Thun-le-Paradis;Desserte Voyageur;49.00683;1.92016;49.00683, 1.92016;78;78250;Meulan-en-Yvelines
+395000;Villepreux-les-Clayes;Desserte Voyageur;48.82384;1.99305;48.82384, 1.99305;78;78340;Les Clayes-sous-Bois
+990000;Petit-Jouy-Les Loges;Desserte Voyageur;48.77039;2.14685;48.77039, 2.14685;78;78350;Jouy-en-Josas
+395000;Plaisir-Les Clayes;Desserte Voyageur;48.83108;1.95996;48.83108, 1.95996;78;78370;Plaisir
+340000;Maisons-Laffitte;Desserte Voyageur;48.94597;2.14419;48.94597, 2.14419;78;78600;Maisons-Laffitte
+396000;Beynes;Desserte Voyageur-Infrastructure;48.85938;1.87577;48.85938, 1.87577;78;78650;Beynes
+340000;Medan;Non exploitée;48.95586;1.99633;48.95586, 1.99633;78;78670;Médan
+988000;Évry-Courcouronnes;Desserte Voyageur;48.62584;2.4296;48.62584, 2.4296;91;91000;Évry
+990000;Longjumeau;Desserte Fret-Desserte Voyageur-Infrastructure;48.70228;2.29489;48.70228, 2.29489;91;91160;Longjumeau
+990000;Gravigny-Balizy;Desserte Voyageur;48.68519;2.31793;48.68519, 2.31793;91;91160;Longjumeau
+570000;Brétigny;Desserte Fret-Desserte Voyageur-Infrastructure;48.60624;2.30193;48.60624, 2.30193;91;91220;Brétigny-sur-Orge
+990000;Massy-Palaiseau-Grande-Ceinture;Desserte Fret-Desserte Voyageur-Infrastructure;48.72431;2.25619;48.72431, 2.25619;91;91300;Massy
+745000;Grigny-Val-de-Seine;Infrastructure;48.66854;2.39704;48.66854, 2.39704;91;91350;Grigny
+990000;Petit-Vaux;Desserte Voyageur;48.67612;2.33359;48.67612, 2.33359;91;91360;Épinay-sur-Orge
+550000;Dourdan;Desserte Fret-Desserte Voyageur-Infrastructure;48.53354;2.01016;48.53354, 2.01016;91;91410;Dourdan
+570000;Lardy;Desserte Voyageur;48.52081;2.25524;48.52081, 2.25524;91;91510;Lardy
+745000;Fontenay-le-Vicomte;Non exploitée;48.55539;2.40425;48.55539, 2.40425;91;91540;Fontenay-le-Vicomte
+745000;Mennecy;Desserte Voyageur;48.57089;2.43275;48.57089, 2.43275;91;91540;Mennecy
+745000;Ballancourt;Desserte Voyageur;48.53234;2.37139;48.53234, 2.37139;91;91610;Ballancourt-sur-Essonne
+550000;Breuillet-Village;Desserte Voyageur;48.56481;2.17134;48.56481, 2.17134;91;91650;Breuillet
+684000;Boissy-la-Rivière;Non exploitée;48.37766;2.14538;48.37766, 2.14538;91;91690;Saclas
+570000;Chamarande;Desserte Voyageur;48.51466;2.21609;48.51466, 2.21609;91;91730;Chamarande
+975000;Nanterre-Université;Desserte Voyageur-Infrastructure;48.90154;2.21524;48.90154, 2.21524;92;92000;Nanterre
+977000;Issy;Desserte Voyageur;48.81992;2.25941;48.81992, 2.25941;92;92130;Issy-les-Moulineaux
+977000;Issy-Val-de-Seine;Desserte Voyageur-Infrastructure;48.82954;2.26354;48.82954, 2.26354;92;92130;Issy-les-Moulineaux
+972000;Suresnes-Longchamp;Non exploitée;48.86765;2.22215;48.86765, 2.22215;92;92150;Suresnes
+552000;Antony;Non exploitée;48.75497;2.30096;48.75497, 2.30096;92;92160;Antony
+985000;Chemin-d'Antony;Desserte Voyageur;48.74797;2.31273;48.74797, 2.31273;92;92160;Antony
+420000;Bellevue;Desserte Voyageur;48.81902;2.22939;48.81902, 2.22939;92;92190;Meudon
+977000;Meudon-Val-Fleury;Desserte Voyageur;48.80806;2.24139;48.80806, 2.24139;92;92190;Meudon
+975000;La Garenne-Colombes;Desserte Voyageur-Infrastructure;48.9092;2.23863;48.9092, 2.23863;92;92250;La Garenne Colombe
+972000;Pont-de-Sèvres;Non exploitée;48.82882;2.2255;48.82882, 2.2255;92;92310;Sèvres
+975000;Rueil-Malmaison;Desserte Fret;48.88733;2.17161;48.88733, 2.17161;92;92500;Rueil-Malmaison
+958000;Lycée-Henri-Sellier;Desserte Voyageur;48.91481;2.51513;48.91481, 2.51513;93;93190;Livry-Gargan
+229000;La Plaine-Stade-de-France;Desserte Voyageur;48.91852;2.36362;48.91852, 2.36362;93;93210;Saint-Denis
+76000;Sevran-Beaudottes;Desserte Voyageur;48.94594;2.5248;48.94594, 2.5248;93;93270;Sevran
+76000;Roissy-Aéroport-Charles-de-Gaulle 2-TGV;Desserte Voyageur-Infrastructure;49.00366;2.57089;49.00366, 2.57089;93;93290;Tremblay-en-France
+272000;Pierrefitte-Stains;Desserte Voyageur;48.964;2.37256;48.964, 2.37256;93;93380;Pierrefitte-sur-Seine
+272000;La Plaine-Tramways;Non exploitée;48.90957;2.35177;48.90957, 2.35177;93;93400;Saint-Ouen
+963000;St-Ouen-les-Docks;Desserte Fret-Infrastructure;48.91128;2.31951;48.91128, 2.31951;93;93400;Saint-Ouen
+956000;St-Maur-Créteil;Non exploitée;48.80596;2.47301;48.80596, 2.47301;94;94100;Saint-Maur-des-Fossés
+830000;Le Vert-de-Maisons;Desserte Voyageur-Infrastructure;48.78822;2.43211;48.78822, 2.43211;94;94140;Alfortville
+985000;Rungis (MIN);Desserte Fret;48.73989;2.34939;48.73989, 2.34939;94;94150;Rungis
+570000;Ivry-sur-Seine;Desserte Voyageur;48.81419;2.39168;48.81419, 2.39168;94;94200;Ivry-sur-Seine
+990000;La Varenne-Chennevières;Desserte Fret;48.79411;2.51276;48.79411, 2.51276;94;94210;Saint-Maur-des-Fossés
+570000;Villeneuve-le-Roi;Desserte Fret-Desserte Voyageur-Infrastructure;48.73958;2.42641;48.73958, 2.42641;94;94290;Villeneuve-le-Roi
+570000;Ablon;Desserte Voyageur;48.72511;2.41896;48.72511, 2.41896;94;94480;Ablon-sur-Seine
+570000;Choisy-le-Roi;Desserte Fret-Desserte Voyageur-Infrastructure;48.764;2.4114;48.764, 2.4114;94;94600;Choisy-le-Roi
+990000;Argenteuil-Triage;Desserte Fret-Infrastructure;48.95228;2.24191;48.95228, 2.24191;95;95100;Argenteuil
+334900;Ermont-Eaubonne (PSL);Desserte Voyageur;48.98054;2.27276;48.98054, 2.27276;95;95120;Eaubonne
+330000;Franconville-Plessis-Bouchard;Desserte Voyageur;48.99356;2.235;48.99356, 2.235;95;95130;Franconville
+272000;Garges;Desserte Voyageur;48.97685;2.39085;48.97685, 2.39085;95;95140;Garges-lès-Gonesse
+272000;Goussainville;Desserte Fret-Desserte Voyageur-Infrastructure;49.024;2.46345;49.024, 2.46345;95;95190;Goussainville
+315000;Belloy-St-Martin;Desserte Voyageur-Infrastructure;49.098;2.36101;49.098, 2.36101;95;95270;Belloy-en-France
+325000;Domont;Desserte Voyageur;49.03288;2.33787;49.03288, 2.33787;95;95330;Domont
+330000;Montigny-Beauchamp;Desserte Voyageur-Infrastructure;49.0078;2.19678;49.0078, 2.19678;95;95370;Beauchamp
+338000;Éragny-Neuville;Desserte Fret-Desserte Voyageur-Infrastructure;49.01826;2.09098;49.01826, 2.09098;95;95610;Éragny-sur-Oise
+329000;L'Isle-Adam-Parmain;Desserte Voyageur-Infrastructure;49.11463;2.20984;49.11463, 2.20984;95;95620;Parmain
+330000;Boissy-l'Aillerie;Desserte Voyageur-Infrastructure;49.07583;2.02511;49.07583, 2.02511;95;95650;Boissy l'Aillerie
+981000;Chatelet-les-Halles;Desserte Voyageur;48.85979;2.34809;48.85979, 2.34809;75;75001;Paris
+272000;Paris-Nord;Desserte Voyageur-Infrastructure;48.88164;2.35616;48.88164, 2.35616;75;75010;Paris
+981000;Paris-Nord-Souterraine;Desserte Voyageur;48.88164;2.35616;48.88164, 2.35616;75;75010;Paris
+981000;Paris-Gare-de-Lyon (Banlieue);Desserte Voyageur-Infrastructure;48.84414;2.374;48.84414, 2.374;75;75012;Paris
+830000;Paris-Bercy;Desserte Voyageur-Infrastructure;48.84019;2.38467;48.84019, 2.38467;75;75012;Paris
+570000;Boulevard-Masséna;Non exploitée;48.82594;2.38075;48.82594, 2.38075;75;75013;Paris
+977000;Javel;Desserte Voyageur;48.84645;2.27696;48.84645, 2.27696;75;75015;Paris
+420000;Paris-Montparnasse-Pasteur;Non exploitée;48.83909;2.31792;48.83909, 2.31792;75;75015;Paris
+420000;Paris-Montparnasse;Desserte Voyageur-Infrastructure;48.84043;2.31957;48.84043, 2.31957;75;75015;Paris
+962000;Boulainvilliers;Desserte Voyageur;48.8565;2.27518;48.8565, 2.27518;75;75016;Paris
+971000;Passy;Non exploitée;48.8562;2.2651;48.8562, 2.2651;75;75016;Paris
+340000;Paris-Batignolles;Desserte Fret-Infrastructure;48.89109;2.30869;48.89109, 2.30869;75;75017;Paris
+955000;Paris-La Chapelle-Évangile;Infrastructure;48.89792;2.36477;48.89792, 2.36477;75;75018;Paris
+1000;Paris-La Villette-Hébert;Desserte Fret;48.89353;2.36878;48.89353, 2.36878;75;75018;Paris
+746000;Livry-sur-Seine;Desserte Voyageur;48.51039;2.67906;48.51039, 2.67906;77;77000;Livry-sur-Seine
+70000;Meaux;Desserte Fret-Desserte Voyageur-Infrastructure;48.95684;2.87329;48.95684, 2.87329;77;77100;Meaux
+1000;Herme;Non exploitée;48.48425;3.35194;48.48425, 3.35194;77;77114;Hermé
+831000;Châtenay-sur-Seine;Infrastructure;48.41687;3.09809;48.41687, 3.09809;77;77126;Châtenay-sur-Seine
+2000;Dammartin-Tigeaux;Non exploitée;48.8106;2.92573;48.8106, 2.92573;77;77163;Dammartin-sur-Tigeaux
+830000;Savigny-le-Temple-Nandy;Desserte Voyageur-Infrastructure;48.59526;2.58407;48.59526, 2.58407;77;77176;Savigny-le-Temple
+70000;La Ferté-sous-Jouarre;Desserte Fret-Desserte Voyageur-Infrastructure;48.95091;3.12538;48.95091, 3.12538;77;77260;La Ferté-sous-Jouarre
+830000;Thomery;Desserte Voyageur;48.39423;2.76453;48.39423, 2.76453;77;77300;Fontainebleau
+1000;Ozoir-la-Ferrière;Desserte Voyageur;48.77052;2.69042;48.77052, 2.69042;77;77330;Ozoir-la-Ferrière
+746000;Champagne-sur-Seine;Desserte Voyageur;48.40634;2.79978;48.40634, 2.79978;77;77430;Champagne-sur-Seine
+831000;Vimpelles;Non exploitée;48.44627;3.18486;48.44627, 3.18486;77;77520;Vimpelles
+2000;Marles-en-Brie;Desserte Fret-Desserte Voyageur-Infrastructure;48.73427;2.8675;48.73427, 2.8675;77;77610;La Houssaye-en-Brie
+1000;Maison-Rouge-en-Brie;Desserte Fret;48.53632;3.14704;48.53632, 3.14704;77;77650;Maison-Rouge
+746000;Vernou-sur-Seine;Desserte Fret-Desserte Voyageur-Infrastructure;48.3865;2.84293;48.3865, 2.84293;77;77670;Vernou-la-Celle-sur-Seine
+1000;Grandpuits;Desserte Fret-Infrastructure;48.58981;2.96923;48.58981, 2.96923;77;77720;Grandpuits-Bailly-Carrois
+72000;Crouy-sur-Ourcq;Desserte Voyageur;49.09156;3.06292;49.09156, 3.06292;77;77840;Crouy-sur-Ourcq
+71000;Couilly-St-Germain;Desserte Voyageur;48.88281;2.85428;48.88281, 2.85428;77;77860;Saint-Germain-sur-Morin
+977000;Porchefontaine;Desserte Voyageur;48.79634;2.15105;48.79634, 2.15105;78;78000;Versailles
+420000;Rambouillet;Desserte Voyageur-Infrastructure;48.64353;1.83163;48.64353, 1.83163;78;78120;Rambouillet
+396000;Mareil-sur-Mauldre;Desserte Voyageur;48.89384;1.87146;48.89384, 1.87146;78;78124;Mareil-sur-Mauldre
+977000;Chaville-Vélizy;Desserte Voyageur-Infrastructure;48.79957;2.18435;48.79957, 2.18435;78;78220;Viroflay
+420000;Coignières;Desserte Voyageur;48.74388;1.9216;48.74388, 1.9216;78;78310;Coignières
+990000;Vauboyen;Desserte Voyageur;48.75922;2.19207;48.75922, 2.19207;78;78350;Jouy-en-Josas
+395000;Plaisir-Grignon;Desserte Voyageur-Infrastructure;48.83217;1.94314;48.83217, 1.94314;78;78370;Plaisir
+552000;St-Rémy-les-Chevreuses;Non exploitée;48.70278;2.07125;48.70278, 2.07125;78;78470;Saint-Rémy-lès-Chevreuse
+340000;Vernouillet-Verneuil;Desserte Fret-Desserte Voyageur-Infrastructure;48.98125;1.98332;48.98125, 1.98332;78;78480;Verneuil-sur-Seine
+340000;Sartrouville;Desserte Voyageur-Infrastructure;48.93744;2.15741;48.93744, 2.15741;78;78500;Sartrouville
+334000;Andrésy;Desserte Voyageur-Infrastructure;48.97429;2.04838;48.97429, 2.04838;78;78570;Andrésy
+974000;St-Nom-la-Bretêche-Forêt-de-Marly;Desserte Voyageur-Infrastructure;48.8672;2.05131;48.8672, 2.05131;78;78620;L'Étang-la-Ville
+340000;Villennes-sur-Seine;Desserte Voyageur;48.9393;1.99971;48.9393, 1.99971;78;78670;Villennes-sur-Seine
+420000;Les Essarts-le-Roi;Desserte Voyageur;48.72184;1.89;48.72184, 1.89;78;78690;Les Essarts-le-Roi
+550000;Ste-Mesme;Non exploitée;48.52247;1.94976;48.52247, 1.94976;78;78730;Saint-Martin-de-Bréthencourt
+684000;St-Martin-d'Étampes;Desserte Voyageur;48.42741;2.14538;48.42741, 2.14538;91;91150;Étampes
+550000;La Norville-St-Germain-lès-Arpajon;Desserte Voyageur;48.59185;2.26738;48.59185, 2.26738;91;91180;La Norville
+552000;Gif-sur-Yvette-Marchandises;Non exploitée;48.69795;2.13439;48.69795, 2.13439;91;91190;Gif-sur-Yvette
+550000;St-Chéron;Desserte Voyageur-Infrastructure;48.55095;2.1253;48.55095, 2.1253;91;91530;Saint-Chéron
+570000;Étréchy;Desserte Voyageur;48.49366;2.19448;48.49366, 2.19448;91;91580;Étréchy
+684000;Estouches;Non exploitée;48.30948;2.13232;48.30948, 2.13232;91;91660;Estouches
+745000;Maisse;Desserte Voyageur-Infrastructure;48.39302;2.39297;48.39302, 2.39297;91;91720;Maisse
+975900;Nanterre-Université;Desserte Voyageur-Infrastructure;48.90164;2.21532;48.90164, 2.21532;92;92000;Nanterre
+967300;La Folie-Nanterre;Desserte Fret-Infrastructure;48.89901;2.22109;48.89901, 2.22109;92;92000;Nanterre
+972000;Les Moulineaux-Billancourt;Non exploitée;48.82186;2.25277;48.82186, 2.25277;92;92130;Issy-les-Moulineaux
+420000;Clamart;Desserte Voyageur;48.81402;2.27254;48.81402, 2.27254;92;92140;Clamart
+973000;Suresnes-Mont-Valérien;Desserte Voyageur-Infrastructure;48.8715;2.22104;48.8715, 2.22104;92;92150;Suresnes
+962000;Les Grésillons;Desserte Voyageur;48.92014;2.31406;48.92014, 2.31406;92;92230;Gennevilliers
+420000;Vanves-Malakoff;Desserte Voyageur-Infrastructure;48.81802;2.29144;48.81802, 2.29144;92;92240;Malakoff
+334900;Clichy-Levallois;Desserte Voyageur;48.89771;2.29727;48.89771, 2.29727;92;92300;Levallois-Perret
+975000;Asnières-sur-Seine;Desserte Voyageur-Infrastructure;48.9053;2.28378;48.9053, 2.28378;92;92600;Asnières-sur-Seine
+340000;La Garenne-Colombes;Desserte Voyageur-Infrastructure;48.90983;2.23904;48.90983, 2.23904;92;92700;Colombes
+975000;Les Vallées;Desserte Voyageur;48.91369;2.25471;48.91369, 2.25471;92;92700;Colombes
+973000;La Défense;Desserte Voyageur-Infrastructure;48.89352;2.23856;48.89352, 2.23856;92;92800;Puteaux
+973000;Puteaux;Desserte Voyageur;48.88364;2.23392;48.88364, 2.23392;92;92800;Puteaux
+1000;Rosny-Bois-Perrier;Desserte Voyageur;48.88246;2.48108;48.88246, 2.48108;93;93110;Rosny-sous-Bois
+229000;Aubervilliers-La Courneuve;Desserte Voyageur;48.92409;2.38553;48.92409, 2.38553;93;93120;La Courneuve
+990000;La Courneuve-Dugny;Desserte Fret-Infrastructure;48.94428;2.4104;48.94428, 2.4104;93;93120;La Courneuve
+958000;Pavillons-sous-Bois;Non exploitée;48.90293;2.51236;48.90293, 2.51236;93;93190;Livry-Gargan
+229000;La Plaine-Voyageurs;Non exploitée;48.91634;2.35936;48.91634, 2.35936;93;93210;Saint-Denis
+70000;Le Raincy-Villemomble-Montfermeil;Desserte Voyageur-Infrastructure;48.88925;2.51162;48.88925, 2.51162;93;93250;Villemomble
+958000;Rougemont-Chanteloup;Desserte Voyageur;48.93063;2.51577;48.93063, 2.51577;93;93270;Sevran
+76000;Roissy-Aéroport-Charles-de-Gaulle 1;Desserte Voyageur;49.00965;2.5598;49.00965, 2.5598;93;93290;Tremblay-en-France
+957000;Neuilly-sur-Marne;Desserte Fret-Infrastructure;48.85975;2.52124;48.85975, 2.52124;93;93330;Neuilly-sur-Marne
+76000;Parc-des-Expositions;Desserte Voyageur;48.97343;2.5139;48.97343, 2.5139;93;93420;Villepinte
+958000;Aulnay-sous-Bois;Desserte Voyageur-Infrastructure;48.93196;2.4948;48.93196, 2.4948;93;93600;Aulnay-sous-Bois
+229000;Drancy;Desserte Voyageur;48.9325;2.45615;48.9325, 2.45615;93;93700;Drancy
+1000;Val-de-Fontenay;Desserte Voyageur;48.85422;2.4892;48.85422, 2.4892;94;94120;Fontenay-sous-Bois
+956000;Vincennes-Fontenay;Non exploitée;48.84422;2.46198;48.84422, 2.46198;94;94120;Fontenay-sous-Bois
+830000;Pompadour-Maisons-Alfort;Desserte Fret;48.78952;2.43162;48.78952, 2.43162;94;94140;Alfortville
+985000;Pont-de-Rungis-Aéroport-d'Orly;Desserte Voyageur;48.74754;2.37138;48.74754, 2.37138;94;94320;Thiais
+570000;Vitry-sur-Seine;Desserte Fret-Desserte Voyageur-Infrastructure;48.80085;2.40235;48.80085, 2.40235;94;94400;Vitry-sur-Seine
+990000;Valenton;Desserte Fret-Infrastructure;48.75887;2.45901;48.75887, 2.45901;94;94460;Villeneuve-Saint-Georges
+830000;Villeneuve-Prairie;Desserte Voyageur;48.76373;2.43349;48.76373, 2.43349;94;94600;Choisy-le-Roi
+334900;Argenteuil;Desserte Voyageur-Infrastructure;48.94654;2.25778;48.94654, 2.25778;95;95100;Argenteuil
+334900;Sannois;Desserte Voyageur;48.97007;2.26402;48.97007, 2.26402;95;95110;Sannois
+328000;Ermont-Halte;Desserte Voyageur;48.99075;2.26319;48.99075, 2.26319;95;95120;Ermont
+329000;Bel-Air;Non exploitée;49.14952;2.28302;49.14952, 2.28302;95;95340;Persan
+325000;Sarcelles-St-Brice;Desserte Voyageur-Infrastructure;48.99546;2.3685;48.99546, 2.3685;95;95350;Saint-Brice-sous-Forêt
+272000;Louvres;Desserte Voyageur;49.0492;2.50178;49.0492, 2.50178;95;95380;Louvres
+329000;Auvers-sur-Oise;Desserte Voyageur;49.07095;2.1766;49.07095, 2.1766;95;95430;Auvers-sur-Oise
+330000;Us;Desserte Voyageur-Infrastructure;49.09904;1.97078;49.09904, 1.97078;95;95450;Us
+325000;Écouen-Ézanville;Desserte Voyageur;49.02277;2.36292;49.02277, 2.36292;95;95460;Ézanville
+325000;Presles-Courcelles;Desserte Voyageur;49.11322;2.2877;49.11322, 2.2877;95;95590;Presles
+330000;Chars;Desserte Fret-Desserte Voyageur-Infrastructure;49.16276;1.93671;49.16276, 1.93671;95;95750;Chars
+326000;Cergy-le-Haut;Desserte Voyageur-Infrastructure;49.04767;2.0108;49.04767, 2.0108;95;95800;Cergy
+329000;Bruyères-sur-Oise;Desserte Voyageur;49.15518;2.32673;49.15518, 2.32673;95;95820;Bruyères-sur-Oise
+977000;Invalides;Desserte Voyageur-Infrastructure;48.86302;2.31346;48.86302, 2.31346;75;75007;Paris
+980106;Paris-Gobelins;Non exploitée;48.82473;2.36638;48.82473, 2.36638;75;75013;Paris
+570000;Paris-Tolbiac;Desserte Fret-Infrastructure;48.83231;2.37479;48.83231, 2.37479;75;75013;Paris
+977000;Boulevard-Victor;Desserte Voyageur;48.83917;2.27045;48.83917, 2.27045;75;75015;Paris
+553000;Ouest-Ceinture;Non exploitée;48.82887;2.30514;48.82887, 2.30514;75;75015;Paris
+971000;Auteuil-Boulogne;Non exploitée;48.84829;2.25993;48.84829, 2.25993;75;75016;Paris
+971000;Pont-Cardinet;Desserte Voyageur-Infrastructure;48.88763;2.31373;48.88763, 2.31373;75;75017;Paris
+340000;Pont-Cardinet;Desserte Voyageur-Infrastructure;48.88768;2.31451;48.88768, 2.31451;75;75017;Paris
+955000;Charonne-Ceinture;Non exploitée;48.8509;2.40935;48.8509, 2.40935;75;75020;Paris
+2000;Coulommiers;Desserte Fret-Desserte Voyageur-Infrastructure;48.80765;3.08184;48.80765, 3.08184;77;77120;Coulommiers
+830000;Lieusaint-Moissy;Desserte Fret-Desserte Voyageur-Infrastructure;48.62786;2.57013;48.62786, 2.57013;77;77127;Lieusaint
+830000;Montereau;Desserte Fret-Desserte Voyageur-Infrastructure;48.37959;2.94277;48.37959, 2.94277;77;77130;Montereau
+831000;Montereau;Desserte Fret-Desserte Voyageur-Infrastructure;48.37968;2.94282;48.37968, 2.94282;77;77130;Montereau
+831000;Les Ormes-sur-Voulzie;Non exploitée;48.46097;3.22684;48.46097, 3.22684;77;77134;Les Ormes-sur-Voulzie
+750000;Nemours-St-Pierre;Desserte Fret-Desserte Voyageur-Infrastructure;48.2681;2.68561;48.2681, 2.68561;77;77140;Saint-Pierre-lès-Nemours
+2000;St-Siméon;Desserte Voyageur;48.79925;3.20855;48.79925, 3.20855;77;77169;Saint-Siméon
+229000;Dammartin-Juilly-St-Mard;Desserte Fret-Desserte Voyageur-Infrastructure;49.03245;2.69954;49.03245, 2.69954;77;77230;Saint-Mard
+2000;Lescherolles;Non exploitée;48.77233;3.34581;48.77233, 3.34581;77;77320;Lescherolles
+2000;Jouy-sur-Morin-Le Marais;Desserte Voyageur;48.79062;3.27351;48.79062, 3.27351;77;77320;Jouy-sur-Morin
+1000;Émerainville-Pontault-Combault;Desserte Fret-Desserte Voyageur-Infrastructure;48.80666;2.6174;48.80666, 2.6174;77;77340;Pontault-Combault
+1000;Nangis;Desserte Fret-Desserte Voyageur-Infrastructure;48.56127;3.0129;48.56127, 3.0129;77;77370;Nangis
+1000;Verneuil-l'Étang;Desserte Fret-Desserte Voyageur-Infrastructure;48.64469;2.82493;48.64469, 2.82493;77;77390;Verneuil-l'Étang
+72000;Lizy-sur-Ourcq;Desserte Fret-Desserte Voyageur-Infrastructure;49.02189;3.03196;49.02189, 3.03196;77;77440;Lizy-sur-Ourcq
+3000;Beauchery;Non exploitée;48.61492;3.40551;48.61492, 3.40551;77;77560;Beauchery-Saint-Martin
+71000;Crécy-en-Brie-La Chapelle;Desserte Voyageur-Infrastructure;48.85966;2.90566;48.85966, 2.90566;77;77580;Crécy-la-Chapelle
+2000;La Houssaye-Crèvecoeur;Non exploitée;48.75461;2.88346;48.75461, 2.88346;77;77610;La Houssaye-en-Brie
+1000;Mormant;Desserte Voyageur-Infrastructure;48.61392;2.88857;48.61392, 2.88857;77;77720;Mormant
+1000;Grandpuits-Bagneux;Desserte Fret;48.59801;2.94049;48.59801, 2.94049;77;77720;Aubepierre-Ozouer-le-Repos
+226310;Roissy-Aéroport-Charles-de-Gaulle 2;Desserte Voyageur-Infrastructure;49.00569;2.57063;49.00569, 2.57063;77;77990;Le Mesnil-Amelot
+973000;Versailles-Rive-Droite;Desserte Voyageur-Infrastructure;48.8096;2.13572;48.8096, 2.13572;78;78000;Versailles
+420000;Versailles-Chantiers;Desserte Voyageur-Infrastructure;48.79545;2.13606;48.79545, 2.13606;78;78000;Versailles
+990000;Versailles-Chantiers;Desserte Voyageur-Infrastructure;48.7954;2.13706;48.7954, 2.13706;78;78000;Versailles
+340000;Achères-Grand-Cormier;Desserte Voyageur-Infrastructure;48.95504;2.09157;48.95504, 2.09157;78;78100;Saint-Germain-en-Laye
+974000;Bougival;Desserte Voyageur;48.85402;2.13207;48.85402, 2.13207;78;78170;La Celle-Saint-Cloud
+420000;Trappes-Voyageurs;Desserte Voyageur;48.77462;2.00608;48.77462, 2.00608;78;78190;Trappes
+420000;St-Cyr;Desserte Fret-Desserte Voyageur-Infrastructure;48.79881;2.07326;48.79881, 2.07326;78;78210;Saint-Cyr-l'École
+990000;St-Cyr-Grande-Ceinture;Infrastructure;48.80281;2.077;48.80281, 2.077;78;78210;Saint-Cyr-l'École
+420000;Viroflay-Rive-Gauche;Desserte Voyageur;48.80063;2.17181;48.80063, 2.17181;78;78220;Viroflay
+973000;Viroflay-Rive-Droite;Desserte Voyageur-Infrastructure;48.80542;2.16849;48.80542, 2.16849;78;78220;Viroflay
+396000;Maule;Desserte Voyageur-Infrastructure;48.90906;1.85772;48.90906, 1.85772;78;78580;Maule
+420000;Le Perray;Desserte Voyageur-Infrastructure;48.69303;1.8565;48.69303, 1.8565;78;78610;Le Perray-en-Yvelines
+990000;St-Nom-la-Bretêche-Forêt-de-Marly;Desserte Voyageur-Infrastructure;48.86663;2.05073;48.86663, 2.05073;78;78620;L'Étang-la-Ville
+974000;L'Étang-la-Ville;Desserte Voyageur;48.86856;2.07762;48.86856, 2.07762;78;78620;L'Étang-la-Ville
+338000;Conflans-Fin-d'Oise;Desserte Fret-Desserte Voyageur-Infrastructure;48.98831;2.07468;48.98831, 2.07468;78;78700;Conflans-Sainte-Honorine
+334000;Vaux-sur-Seine;Desserte Voyageur-Infrastructure;49.00743;1.96286;49.00743, 1.96286;78;78740;Vaux-sur-Seine
+975900;Houilles-Carrières-sur-Seine;Desserte Voyageur-Infrastructure;48.92078;2.18463;48.92078, 2.18463;78;78800;Houilles
+334000;Juziers;Desserte Voyageur;48.99223;1.84594;48.99223, 1.84594;78;78820;Juziers
+745000;Évry;Desserte Voyageur;48.63484;2.45182;48.63484, 2.45182;91;91000;Évry
+745000;Corbeil-Essonnes;Desserte Fret-Desserte Voyageur-Infrastructure;48.61464;2.47399;48.61464, 2.47399;91;91100;Corbeil-Essonnes
+745000;Ris-Orangis;Desserte Fret-Desserte Voyageur-Infrastructure;48.6594;2.4143;48.6594, 2.4143;91;91130;Ris-Orangis
+830000;Montgeron-Crosne;Desserte Voyageur;48.70859;2.4616;48.70859, 2.4616;91;91230;Montgeron
+570000;St-Michel-sur-Orge;Desserte Voyageur;48.63535;2.30691;48.63535, 2.30691;91;91240;Saint-Michel-sur-Orge
+745000;Vigneux-sur-Seine;Desserte Voyageur;48.7081;2.41382;48.7081, 2.41382;91;91270;Vigneux-sur-Seine
+550000;Arpajon (Essonne);Desserte Voyageur-Infrastructure;48.58614;2.24049;48.58614, 2.24049;91;91290;Arpajon
+985000;Massy-Verrières;Desserte Voyageur;48.73493;2.27356;48.73493, 2.27356;91;91300;Massy
+985000;Wissous;Desserte Fret-Infrastructure;48.74109;2.33112;48.74109, 2.33112;91;91320;Wissous
+830000;Yerres;Desserte Voyageur;48.7064;2.48276;48.7064, 2.48276;91;91330;Yerres
+988000;Grigny-Centre;Desserte Voyageur-Infrastructure;48.65107;2.39391;48.65107, 2.39391;91;91350;Grigny
+570000;Marolles-en-Hurepoix;Desserte Voyageur;48.56535;2.29091;48.56535, 2.29091;91;91630;Marolles-en-Hurepoix
+550000;Breuillet-Bruyères-le-Châtel;Desserte Voyageur;48.5778;2.19283;48.5778, 2.19283;91;91650;Breuillet
+684000;Méréville;Non exploitée;48.31873;2.10402;48.31873, 2.10402;91;91660;Méréville
+570000;Angerville;Desserte Voyageur-Infrastructure;48.31141;2.00375;48.31141, 2.00375;91;91670;Angerville
+745000;Boigneville;Desserte Voyageur;48.34161;2.37879;48.34161, 2.37879;91;91720;Boigneville
+830000;Boussy-St-Antoine;Desserte Voyageur;48.68098;2.53301;48.68098, 2.53301;91;91800;Boussy-Saint-Antoine
+746000;Le Plessis-Chenet;Desserte Voyageur;48.57367;2.47958;48.57367, 2.47958;91;91830;Le Coudray-Montceaux
+746000;Coudray-Montceaux;Desserte Voyageur;48.56616;2.49259;48.56616, 2.49259;91;91830;Le Coudray-Montceaux
+972000;Suresnes-Puteaux;Non exploitée;48.87918;2.22993;48.87918, 2.22993;92;92150;Suresnes
+973000;Le Val-d'Or;Desserte Voyageur;48.85699;2.21654;48.85699, 2.21654;92;92210;Saint-Cloud
+962000;Gennevilliers;Desserte Fret-Desserte Voyageur-Infrastructure;48.93399;2.3072;48.93399, 2.3072;92;92230;Gennevilliers
+334000;Bois-Colombes;Desserte Voyageur-Infrastructure;48.91328;2.27255;48.91328, 2.27255;92;92270;Bois-Colombes
+340000;Clichy-Levallois;Desserte Voyageur;48.89766;2.29753;48.89766, 2.29753;92;92300;Levallois-Perret
+973000;Sèvres-Ville-d'Avray;Desserte Voyageur-Infrastructure;48.82739;2.20097;48.82739, 2.20097;92;92310;Sèvres
+334000;Asnières-sur-Seine;Desserte Voyageur-Infrastructure;48.90587;2.28354;48.90587, 2.28354;92;92600;Asnières-sur-Seine
+334900;Asnières-sur-Seine;Desserte Voyageur-Infrastructure;48.90553;2.28376;48.90553, 2.28376;92;92600;Asnières-sur-Seine
+340000;Asnières-sur-Seine;Desserte Voyageur-Infrastructure;48.90539;2.28417;48.90539, 2.28417;92;92600;Asnières-sur-Seine
+340000;Les Vallées;Desserte Voyageur;48.91422;2.25447;48.91422, 2.25447;92;92700;Colombes
+334900;Colombes;Desserte Voyageur;48.92394;2.25898;48.92394, 2.25898;92;92700;Colombes
+957000;Bobigny;Desserte Fret-Infrastructure;48.91061;2.43085;48.91061, 2.43085;93;93000;Bobigny
+70000;Bondy;Desserte Voyageur;48.89423;2.47886;48.89423, 2.47886;93;93140;Bondy
+958000;Remise-à-Jorelle;Desserte Voyageur;48.89277;2.4862;48.89277, 2.4862;93;93140;Bondy
+958000;L'Abbaye;Desserte Voyageur;48.92216;2.5168;48.92216, 2.5168;93;93190;Livry-Gargan
+272000;St-Denis;Desserte Fret-Desserte Voyageur-Infrastructure;48.93547;2.34546;48.93547, 2.34546;93;93200;Saint-Denis
+70000;Chenay-Gagny;Desserte Voyageur;48.87721;2.55255;48.87721, 2.55255;93;93220;Gagny
+958000;Gargan;Desserte Voyageur;48.90896;2.51705;48.90896, 2.51705;93;93320;Les Pavillons-sous-Bois
+962000;St-Ouen;Desserte Voyageur;48.90525;2.32251;48.90525, 2.32251;93;93400;Saint-Ouen
+1000;Pantin;Desserte Fret-Desserte Voyageur-Infrastructure;48.89807;2.40028;48.89807, 2.40028;93;93500;Pantin
+229000;Aulnay-sous-Bois;Desserte Voyageur-Infrastructure;48.93221;2.4947;48.93221, 2.4947;93;93600;Aulnay-sous-Bois
+962000;Épinay-sur-Seine;Desserte Voyageur;48.95412;2.30237;48.95412, 2.30237;93;93800;Épinay-sur-Seine
+956000;Le Parc-de-St-Maur;Non exploitée;48.8054;2.48648;48.8054, 2.48648;94;94100;Saint-Maur-des-Fossés
+956000;Nogent-sur-Marne;Non exploitée;48.83408;2.47182;48.83408, 2.47182;94;94130;Nogent-sur-Marne
+830000;Villeneuve-St-Georges;Desserte Voyageur-Infrastructure;48.73031;2.4463;48.73031, 2.4463;94;94190;Villeneuve-Saint-Georges
+956000;Champigny;Non exploitée;48.80696;2.51021;48.80696, 2.51021;94;94210;Varenne Saint Hilaire (La)
+957000;Bry-sur-Marne;Desserte Fret-Infrastructure;48.8377;2.52403;48.8377, 2.52403;94;94360;Bry-sur-Marne
+957000;Chennevières-sur-Marne;Non exploitée;48.79541;2.52584;48.79541, 2.52584;94;94430;Chennevières-sur-Marne
+1000;Les Boullereaux-Champigny;Desserte Voyageur;48.82493;2.51125;48.82493, 2.51125;94;94500;Champigny-sur-Marne
+985000;Choisy-le-Roi;Desserte Fret-Desserte Voyageur-Infrastructure;48.764;2.41118;48.764, 2.41118;94;94600;Choisy-le-Roi
+326000;Cergy-Préfecture;Desserte Voyageur-Infrastructure;49.03666;2.07967;49.03666, 2.07967;95;95000;Cergy
+328000;Vaucelles;Desserte Voyageur;49.02159;2.22979;49.02159, 2.22979;95;95150;Taverny
+315000;Luzarches;Desserte Voyageur-Infrastructure;49.1177;2.42157;49.1177, 2.42157;95;95270;Luzarches
+330000;St-Ouen-l'Aumône;Desserte Voyageur;49.04529;2.10636;49.04529, 2.10636;95;95310;Saint-Ouen-l'Aumône
+1379;Magenta;Desserte Voyageur-Infrastructure;48.88034;2.35837;48.88034, 2.35837;75;75010;Paris
+272000;Paris-Nord-Souterraine;Desserte Voyageur;48.88164;2.35616;48.88164, 2.35616;75;75010;Paris
+272000;Paris-Nord-Surface;Desserte Voyageur;48.88164;2.35616;48.88164, 2.35616;75;75010;Paris
+830000;Paris-Gare-de-Lyon;Desserte Voyageur-Infrastructure;48.84385;2.37469;48.84385, 2.37469;75;75012;Paris
+830000;Paris-Gare-de-Lyon (Banlieue);Desserte Voyageur-Infrastructure;48.84385;2.37469;48.84385, 2.37469;75;75012;Paris
+830000;Paris-Bercy-Charolais;Non exploitée;48.83673;2.38997;48.83673, 2.38997;75;75012;Paris
+980000;Grenelle-Marchandises;Non exploitée;48.83691;2.2773;48.83691, 2.2773;75;75015;Paris
+962000;Neuilly-Porte-Maillot;Desserte Voyageur;48.87788;2.28428;48.87788, 2.28428;75;75017;Paris
+962000;Péreire-Levallois;Desserte Voyageur-Infrastructure;48.88531;2.29795;48.88531, 2.29795;75;75017;Paris
+334000;Pont-Cardinet;Desserte Voyageur-Infrastructure;48.88773;2.31457;48.88773, 2.31457;75;75017;Paris
+955000;Belleville-Villette;Non exploitée;48.88428;2.38531;48.88428, 2.38531;75;75019;Paris
+962000;Avenue-Foch;Desserte Voyageur;48.87098;2.27553;48.87098, 2.27553;75;75116;Paris
+830000;Melun;Desserte Fret-Desserte Voyageur-Infrastructure;48.52723;2.65577;48.52723, 2.65577;77;77000;Melun
+1000;Flamboin-Gouaix;Desserte Fret-Infrastructure;48.47231;3.2946;48.47231, 3.2946;77;77114;Gouaix
+2000;Mouroux;Desserte Voyageur;48.81328;3.04473;48.81328, 3.04473;77;77120;Mouroux
+3000;Provins;Desserte Fret-Desserte Voyageur-Infrastructure;48.5558;3.30335;48.5558, 3.30335;77;77160;Provins
+1000;Gretz-Armainvilliers;Desserte Fret-Desserte Voyageur-Infrastructure;48.74533;2.72865;48.74533, 2.72865;77;77220;Gretz-Armainvilliers
+229000;Thieux-Nantouillet;Desserte Voyageur;49.00871;2.68058;49.00871, 2.68058;77;77230;Nantouillet
+229000;Villeparisis;Desserte Fret-Desserte Voyageur-Infrastructure;48.95276;2.60129;48.95276, 2.60129;77;77290;Mitry-Mory
+72000;Isles-Armentières;Desserte Fret-Desserte Voyageur;48.99811;3.00751;48.99811, 3.00751;77;77440;Isles-les-Meldeuses
+750000;Souppes-Château-Landon;Desserte Fret-Desserte Voyageur-Infrastructure;48.18189;2.73467;48.18189, 2.73467;77;77460;Souppes-sur-Loing
+70000;Trilport;Desserte Fret-Desserte Voyageur-Infrastructure;48.96019;2.94949;48.96019, 2.94949;77;77470;Trilport
+70000;Chelles-Gournay;Desserte Voyageur;48.87433;2.58147;48.87433, 2.58147;77;77500;Chelles
+2000;Faremoutiers-Pommeuse;Desserte Voyageur;48.80855;2.99341;48.80855, 2.99341;77;77515;Pommeuse
+3000;Villiers-St-Georges;Desserte Fret-Infrastructure;48.65115;3.41296;48.65115, 3.41296;77;77560;Villiers-Saint-Georges
+70000;Changis-St-Jean;Desserte Fret-Desserte Voyageur-Infrastructure;48.95916;3.02534;48.95916, 3.02534;77;77660;Changis-sur-Marne
+830000;St-Mammès;Desserte Voyageur-Infrastructure;48.38209;2.81583;48.38209, 2.81583;77;77670;Saint-Mammès
+746000;La Grande-Paroisse;Desserte Voyageur;48.37861;2.89727;48.37861, 2.89727;77;77670;Vernou-la-Celle-sur-Seine
+1000;Roissy-en-Brie;Desserte Voyageur;48.79549;2.65095;48.79549, 2.65095;77;77680;Roissy-en-Brie
+750000;Montigny-sur-Loing;Desserte Voyageur;48.33651;2.7381;48.33651, 2.7381;77;77690;Montigny-sur-Loing
+977000;Versailles-Rive-Gauche;Desserte Voyageur-Infrastructure;48.80021;2.12919;48.80021, 2.12919;78;78000;Versailles
+990000;Versailles-Matelots;Desserte Fret-Infrastructure;48.79552;2.09578;48.79552, 2.09578;78;78000;Versailles
+973000;Montreuil;Desserte Voyageur;48.80627;2.15215;48.80627, 2.15215;78;78000;Versailles
+338000;Achères-Ville;Desserte Voyageur-Infrastructure;48.96935;2.07781;48.96935, 2.07781;78;78260;Achères
+340000;Poissy;Desserte Fret-Desserte Voyageur-Infrastructure;48.93299;2.0408;48.93299, 2.0408;78;78300;Poissy
+395000;Fontenay-le-Fleury;Desserte Voyageur;48.80714;2.041;48.80714, 2.041;78;78330;Fontenay-le-Fleury
+396000;Nézel-Aulnay;Desserte Voyageur;48.93853;1.84068;48.93853, 1.84068;78;78410;Nézel
+340000;Aubergenville-Élisabethville;Desserte Voyageur;48.97188;1.84769;48.97188, 1.84769;78;78410;Aubergenville
+395000;Montfort-l'Amaury-Mère;Desserte Fret-Desserte Voyageur-Infrastructure;48.80281;1.81555;48.80281, 1.81555;78;78490;Méré
+334000;Triel-sur-Seine;Desserte Voyageur-Infrastructure;48.98074;2.00614;48.98074, 2.00614;78;78510;Triel-sur-Seine
+990000;Noisy-le-Roi;Desserte Voyageur-Infrastructure;48.84149;2.06165;48.84149, 2.06165;78;78590;Noisy-le-Roi
+395000;Villiers-Neauphle-Pontchartrain;Desserte Voyageur-Infrastructure;48.81542;1.87758;48.81542, 1.87758;78;78640;Villiers-Saint-Fréderic
+550000;Paray-Douaville;Infrastructure;48.47754;1.85216;48.47754, 1.85216;78;78660;Paray-Douaville
+990000;Mareil-Marly;Desserte Voyageur;48.8808;2.07904;48.8808, 2.07904;78;78750;Mareil-Marly
+340000;Houilles-Carrières-sur-Seine;Desserte Voyageur-Infrastructure;48.92077;2.18493;48.92077, 2.18493;78;78800;Houilles
+988000;Le Bras-de-fer;Desserte Voyageur;48.62325;2.45088;48.62325, 2.45088;91;91000;Évry
+745000;Moulin-Galant;Desserte Voyageur;48.58627;2.47345;48.58627, 2.47345;91;91100;Corbeil-Essonnes
+746000;Essonnes-Robinson;Desserte Voyageur;48.60621;2.46365;48.60621, 2.46365;91;91100;Corbeil-Essonnes
+988000;Orangis-Bois-de-l'Épine;Desserte Voyageur;48.63622;2.40998;48.63622, 2.40998;91;91130;Ris-Orangis
+745000;Grand-Bourg (Essonne);Desserte Voyageur;48.648;2.4361;48.648, 2.4361;91;91130;Ris-Orangis
+745000;Viry-Châtillon;Desserte Voyageur;48.67613;2.38704;48.67613, 2.38704;91;91170;Viry-Châtillon
+570000;Athis-Mons;Desserte Voyageur;48.71235;2.4031;48.71235, 2.4031;91;91200;Athis-Mons
+570000;Juvisy;Desserte Fret-Desserte Voyageur-Infrastructure;48.68946;2.38207;48.68946, 2.38207;91;91260;Juvisy-sur-Orge
+550000;Dourdan-la-Forêt;Desserte Voyageur;48.53556;1.99694;48.53556, 1.99694;91;91410;Dourdan
+570000;Bouray;Desserte Voyageur;48.53331;2.29039;48.53331, 2.29039;91;91510;Lardy
+550000;Égly;Desserte Voyageur;48.58241;2.22221;48.58241, 2.22221;91;91520;Égly
+550000;Sermaise;Desserte Voyageur;48.5355;2.06882;48.5355, 2.06882;91;91530;Sermaise
+990000;Bièvres;Desserte Voyageur-Infrastructure;48.75124;2.21556;48.75124, 2.21556;91;91570;Bièvres
+570000;Savigny-sur-Orge;Desserte Voyageur;48.67592;2.35178;48.67592, 2.35178;91;91600;Savigny-sur-Orge
+570000;Guillerval;Desserte Voyageur-Infrastructure;48.37527;2.06078;48.37527, 2.06078;91;91690;Guillerval
+570000;Ste-Geneviève-des-Bois;Desserte Voyageur;48.65304;2.31328;48.65304, 2.31328;91;91700;Sainte-Geneviève-des-Bois
+745000;Boutigny;Desserte Voyageur;48.43491;2.37657;48.43491, 2.37657;91;91820;Boutigny-sur-Essonne
+570000;Monnerville;Desserte Voyageur;48.34879;2.03272;48.34879, 2.03272;91;91930;Monnerville
+972000;Le Bas-Meudon;Non exploitée;48.8192;2.2397;48.8192, 2.2397;92;92190;Meudon
+973000;St-Cloud;Desserte Voyageur-Infrastructure;48.84528;2.21704;48.84528, 2.21704;92;92210;Saint-Cloud
+972000;Pont-de-St-Cloud;Non exploitée;48.84223;2.22165;48.84223, 2.22165;92;92210;Saint-Cloud
+553000;Montrouge-Châtillon;Desserte Fret-Infrastructure;48.80675;2.30263;48.80675, 2.30263;92;92220;Châtillon
+334900;Bois-Colombes;Desserte Voyageur-Infrastructure;48.91373;2.27191;48.91373, 2.27191;92;92270;Bois-Colombes
+975000;Clichy-Levallois;Desserte Voyageur;48.89761;2.29731;48.89761, 2.29731;92;92300;Levallois-Perret
+973000;Clichy-Levallois;Desserte Voyageur;48.89749;2.29737;48.89749, 2.29737;92;92300;Levallois-Perret
+420000;Chaville-Rive-Gauche;Desserte Voyageur;48.80434;2.18838;48.80434, 2.18838;92;92370;Chaville
+973000;Chaville-Rive-Droite;Desserte Voyageur;48.81182;2.18766;48.81182, 2.18766;92;92370;Chaville
+973000;Courbevoie;Desserte Voyageur;48.89797;2.24769;48.89797, 2.24769;92;92400;Courbevoie
+973000;Bécon-les-Bruyères;Desserte Fret-Desserte Voyageur-Infrastructure;48.90525;2.26888;48.90525, 2.26888;92;92400;Courbevoie
+334000;Colombes;Desserte Voyageur;48.92324;2.25957;48.92324, 2.25957;92;92700;Colombes
+334000;Le Stade;Desserte Voyageur-Infrastructure;48.93061;2.26022;48.93061, 2.26022;92;92700;Colombes
+958000;Bondy;Desserte Voyageur;48.89385;2.47876;48.89385, 2.47876;93;93140;Bondy
+229000;Le Blanc-Mesnil;Desserte Fret-Desserte Voyageur;48.93223;2.47687;48.93223, 2.47687;93;93150;Le Blanc-Mesnil
+70000;Gagny;Desserte Voyageur-Infrastructure;48.8833;2.52693;48.8833, 2.52693;93;93220;Gagny
+958000;Freinville-Sevran;Desserte Voyageur;48.92701;2.51913;48.92701, 2.51913;93;93270;Sevran
+229000;Sevran-Livry;Desserte Voyageur;48.93651;2.53566;48.93651, 2.53566;93;93270;Sevran
+963000;Boulevard-Victor-Hugo;Non exploitée;48.9067;2.32446;48.9067, 2.32446;93;93400;Saint-Ouen
+229000;Vert-Galant;Desserte Voyageur;48.94436;2.5672;48.94436, 2.5672;93;93420;Villepinte
+956000;Fontenay-sous-bois;Non exploitée;48.84329;2.46468;48.84329, 2.46468;94;94120;Fontenay-sous-Bois
+1000;Nogent-Le Perreux;Desserte Fret-Desserte Voyageur-Infrastructure;48.83844;2.49436;48.83844, 2.49436;94;94130;Le Perreux-sur-Marne
+830000;Maisons-Alfort-Alfortville;Desserte Voyageur;48.80202;2.42642;48.80202, 2.42642;94;94140;Alfortville
+956000;St-Mandé;Non exploitée;48.84443;2.42046;48.84443, 2.42046;94;94160;Saint-Mandé
+830000;Charenton;Non exploitée;48.82047;2.41228;48.82047, 2.41228;94;94220;Charenton-le-Pont
+830000;Paris-Bercy-Conflans;Infrastructure;48.82735;2.40033;48.82735, 2.40033;94;94220;Charenton-le-Pont
+1000;Villiers-sur-Marne;Desserte Voyageur-Infrastructure;48.82328;2.54256;48.82328, 2.54256;94;94350;Villiers-sur-Marne
+326000;Neuville-Université;Desserte Voyageur-Infrastructure;49.01344;2.07849;49.01344, 2.07849;95;95000;Neuville-sur-Oise
+334000;Le Val-d'Argenteuil;Desserte Voyageur;48.95023;2.23069;48.95023, 2.23069;95;95100;Argenteuil
+334000;Argenteuil-Triage;Desserte Fret-Infrastructure;48.95452;2.24209;48.95452, 2.24209;95;95100;Argenteuil
+330000;Ermont-Eaubonne;Desserte Voyageur-Infrastructure;48.98072;2.27124;48.98072, 2.27124;95;95120;Ermont
+328000;Taverny;Desserte Voyageur-Infrastructure;49.02528;2.22158;49.02528, 2.22158;95;95150;Taverny
+334000;Herblay;Desserte Voyageur-Infrastructure;48.99057;2.16127;48.99057, 2.16127;95;95220;Herblay
+330000;Champ-de-Courses-d'Enghien;Desserte Voyageur;48.97975;2.29177;48.97975, 2.29177;95;95230;Soisy-sous-Montmorency
+334000;Cormeilles-en-Parisis;Desserte Voyageur-Infrastructure;48.96853;2.19343;48.96853, 2.19343;95;95240;Cormeilles-en-Parisis
+329000;Épluches;Desserte Fret-Desserte Voyageur-Infrastructure;49.0555;2.12348;49.0555, 2.12348;95;95310;Saint-Ouen-l'Aumône
+329000;Pont-Petit;Desserte Voyageur-Infrastructure;49.06122;2.13156;49.06122, 2.13156;95;95310;Saint-Ouen-l'Aumône
+570000;Les Ardoines;Desserte Voyageur;48.78426;2.40925;48.78426, 2.40925;94;94400;Vitry-sur-Seine
+956000;Boissy-St-Léger;Non exploitée;48.75322;2.50496;48.75322, 2.50496;94;94470;Boissy-Saint-Léger
+990000;Le Plant-Champigny;Infrastructure;48.81999;2.5068;48.81999, 2.5068;94;94500;Champigny-sur-Marne
+334000;Argenteuil;Desserte Voyageur-Infrastructure;48.94718;2.25748;48.94718, 2.25748;95;95100;Argenteuil
+330000;Cernay (Val-d'Oise);Desserte Voyageur;48.98529;2.25704;48.98529, 2.25704;95;95120;Ermont
+328000;Ermont-Eaubonne;Desserte Voyageur-Infrastructure;48.98082;2.27124;48.98082, 2.27124;95;95120;Ermont
+328000;Gros-Noyer-St-Prix;Desserte Voyageur;48.99682;2.25909;48.99682, 2.25909;95;95120;Ermont
+330000;La Barre-Ormesson;Desserte Voyageur;48.96654;2.31632;48.96654, 2.31632;95;95170;Enghien-les-Bains
+325000;Deuil-Montmagny;Desserte Voyageur-Infrastructure;48.97561;2.3378;48.97561, 2.3378;95;95170;Deuil-la-Barre
+272000;Les Noues;Desserte Voyageur;49.03341;2.47835;49.03341, 2.47835;95;95190;Goussainville
+962000;St-Gratien;Desserte Voyageur;48.96388;2.28516;48.96388, 2.28516;95;95210;Saint-Gratien
+315000;Viarmes;Desserte Voyageur;49.11612;2.36757;49.11612, 2.36757;95;95270;Viarmes
+315000;Seugy;Desserte Voyageur;49.11918;2.39905;49.11918, 2.39905;95;95270;Seugy
+330000;Pontoise;Desserte Voyageur-Infrastructure;49.04673;2.09594;49.04673, 2.09594;95;95300;Pontoise
+330000;St-Ouen-l'Aumône-Liesse;Desserte Voyageur;49.03384;2.12841;49.03384, 2.12841;95;95310;Saint-Ouen-l'Aumône
+329000;Persan-Beaumont;Desserte Fret-Desserte Voyageur-Infrastructure;49.14817;2.27916;49.14817, 2.27916;95;95340;Persan
+329000;Bernes;Non exploitée;49.1535;2.30308;49.1535, 2.30308;95;95340;Bernes-sur-Oise
+329000;Valmondois;Desserte Voyageur-Infrastructure;49.09159;2.202;49.09159, 2.202;95;95430;Butry-sur-Oise
+329000;Chaponval;Desserte Voyageur;49.06882;2.14059;49.06882, 2.14059;95;95430;Auvers-sur-Oise
+272000;Survilliers-Fosses;Desserte Fret-Desserte Voyageur-Infrastructure;49.09965;2.52554;49.09965, 2.52554;95;95470;Fosses
+330000;Osny;Desserte Voyageur;49.06289;2.058;49.06289, 2.058;95;95520;Osny
+328000;Bessancourt;Desserte Voyageur-Infrastructure;49.03573;2.20986;49.03573, 2.20986;95;95550;Bessancourt
+325000;Nointel-Mours;Desserte Voyageur;49.13282;2.28005;49.13282, 2.28005;95;95590;Nointel
+330000;Santeuil-Le Perchay;Desserte Voyageur;49.123;1.94956;49.123, 1.94956;95;95640;Santeuil
+328000;Frépillon;Desserte Voyageur;49.04607;2.19711;49.04607, 2.19711;95;95740;Bessancourt
+326000;Cergy-St-Christophe;Desserte Voyageur-Infrastructure;49.04986;2.03349;49.04986, 2.03349;95;95800;Cergy
+338000;St-Ouen-l'Aumône-Église;Desserte Voyageur;49.0397;2.10375;49.0397, 2.10375;95;95310;Saint-Ouen-l'Aumône
+328000;St-Leu-la-Forêt;Desserte Voyageur-Infrastructure;49.01541;2.24272;49.01541, 2.24272;95;95320;Saint-Leu-la-Forêt
+272000;Villiers-le-Bel-Gonesse;Desserte Voyageur-Infrastructure;48.99378;2.41634;48.99378, 2.41634;95;95400;Arnouville
+325000;Groslay;Desserte Voyageur;48.98465;2.35419;48.98465, 2.35419;95;95410;Groslay
+330000;Pierrelaye;Desserte Voyageur-Infrastructure;49.0193;2.15398;49.0193, 2.15398;95;95480;Pierrelaye
+325000;Montsoult-Maffliers;Desserte Voyageur-Infrastructure;49.06627;2.32277;49.06627, 2.32277;95;95560;Montsoult
+328000;Mériel;Desserte Voyageur;49.07724;2.20501;49.07724, 2.20501;95;95630;Mériel
+990000;Épinay-Grande-Ceinture;Non exploitée;48.95905;2.32943;48.95905, 2.32943;95;95360;Montmagny
+334000;La Frette-Montigny;Desserte Voyageur;48.98012;2.18013;48.98012, 2.18013;95;95530;La Frette-sur-Seine
+328000;Méry (Val-d'Oise);Desserte Voyageur;49.05743;2.1908;49.05743, 2.1908;95;95540;Méry-sur-Oise
+325000;Bouffemont-Moisselles;Desserte Voyageur;49.04496;2.32326;49.04496, 2.32326;95;95570;Bouffémont
+315000;Villaines (Val-d'Oise);Desserte Voyageur;49.07868;2.34923;49.07868, 2.34923;95;95570;Villaines-sous-Bois
+330000;Montgeroult-Courcelles;Desserte Voyageur;49.07991;2.00598;49.07991, 2.00598;95;95650;Montgeroult
+329000;Champagne-sur-Oise;Desserte Voyageur;49.13574;2.2421;49.13574, 2.2421;95;95660;Champagne-sur-Oise
+330000;Enghien-les-Bains;Desserte Voyageur;48.97353;2.30616;48.97353, 2.30616;95;95880;Enghien-les-Bains
