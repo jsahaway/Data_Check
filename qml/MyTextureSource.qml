@@ -17,7 +17,7 @@ import QtQml.Models 2.2
         layer.textureMirroring: ShaderEffectSource.NoMirroring
         width: 64
         height: 32
-        //anchors.centerIn: parent
+        anchors.centerIn: parent
         visible: true
         text: myText
         font.pixelSize: 9

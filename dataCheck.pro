@@ -1,7 +1,6 @@
 TEMPLATE = app
 
 QT += qml quick sql
-#QT += sql
 
 CONFIG += c++11
 CONFIG -= console
@@ -46,5 +45,6 @@ DISTFILES += \
     qml/main.qml \
     qml/MyRect.qml \
     qml/MyTextureSource.qml \
-    qml/testqml.qml 
+    qml/testqml.qml \ 
+    qml/MyListView.qml
 

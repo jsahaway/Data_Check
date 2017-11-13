@@ -32,7 +32,7 @@ void MyApp::updateContext()
     } else {
 
         Table myCSV;
-        myCSV.loadData("C:/Users/34011-58-08/Documents/34011-58-08/git/dataCheck/files/example_gares.csv");
+        myCSV.loadData("files/example_gares.csv");
 
         QStringList listToQml;
         //listToQml << "item1" << "item2" << "item3";
